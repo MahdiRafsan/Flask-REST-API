@@ -1,0 +1,11 @@
+.vscode
+.coverage
+
+virt/
+
+api/database.db
+api/__pycache__
+test/__pycache__
+
+
+
