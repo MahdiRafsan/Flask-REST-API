@@ -47,6 +47,6 @@ coverage report
 * PUT /api/todo/<todo_id>           
 * DELETE /api/todo/<todo_id>        
 
-To run the API on Postman run the app and open http://127.0.0.1:5000 on Postman and make GET, POST, PUT, DELETE requests using the specified endpoints.\
+To run the API on Postman run the app and open `http://127.0.0.1:5000` on Postman and make GET, POST, PUT, DELETE requests using the specified endpoints.\
 To sign-up users use the format `{"name": <Username>, "password": <Password>}` inside the Postman body.\
 To create todo items use the format `{"item": <Todo item description>}` inside the Postman body.
